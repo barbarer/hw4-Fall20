@@ -17,8 +17,9 @@ To commit use:
 
 - git commit -m "message"
 
-To push your commits to github use:
+Be sure to do at least 3 commits to earn up to 15 points.  To push your commits to github use:
 
 - git push
+
 
 Submit the url for your repository on github on Canvas by the due date.
